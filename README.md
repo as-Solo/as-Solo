@@ -5,7 +5,7 @@ as-Solo = {
       'nombre' : 'Alejandro',
       'apellidos' : 'S. del Solo',
       'estado_mental' : 'while True:'
-      'aficiones' : ['leer', 'series', 'aprender', 'piano', 'diseño', ['anime', 'japón🍙'], 'puzzles', 'juegos de mesa', 'debates']
+      'aficiones' : ['leer', 'series', 'aprender', 'piano', 'diseño', ['anime', 'japón🍙'], 'puzzles', 'juegos de mesa']
       }
 ```
 
